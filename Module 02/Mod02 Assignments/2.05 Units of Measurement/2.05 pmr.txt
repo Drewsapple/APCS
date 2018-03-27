@@ -1,0 +1,14 @@
+PROJECT TITLE: 2.05 Units of Measurement / MeasurementConverterV1.java
+PURPOSE OF PROJECT: To practice mathematical operators, connectation and
+variables
+VERSION or DATE: 10/7/15
+AUTHORS: Drew Fisher
+
+**************************** P M R *********************************************
+ 
+<+s>:   I got a lot of good practice using variables and connectation while
+        reviewing mathematical operators.
+<-s>:   I had trouble figuring out which variables to use where.
+           
+*******************************************************************************
+In the future: I should use better naming conventions for my variables.
